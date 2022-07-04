@@ -1,5 +1,5 @@
-var n1 , n2 , resultado;
-let n1 = prompt("Introduce primer numero");
-let n2 = prompt("Introduce segundo numero");
-resultado = (parseInt(n1) + parseInt(n2));
-document.write = (resultado)
+
+let numero1 = parseInt(prompt("Introduce primer numero"));
+let numero2 = parseInt(prompt("Introduce segundo numero"));
+
+document.write("La suma es "+ (numero1 + numero2));

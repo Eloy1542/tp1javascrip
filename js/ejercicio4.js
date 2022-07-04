@@ -1,2 +1,2 @@
-var nombre = prompt("Nombre de Usuario?");
+let nombre = prompt("Nombre de Usuario?");
 document.write(nombre);
