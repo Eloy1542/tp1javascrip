@@ -1,2 +1,2 @@
-prompt("Nombre de Usuario?")
-"nombreusuario"
+var nombre = prompt("Nombre de Usuario?");
+document.write(nombre);
